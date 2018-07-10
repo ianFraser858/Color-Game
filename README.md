@@ -1,3 +1,3 @@
 RBG Color Game
 
-To play clone all files and launch .html.
+To play clone all files and launch guessingColorGame.html.
